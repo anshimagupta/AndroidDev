@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sorted Life</string>
+    <string name="title_activity_register">RegisterActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_select_option">SelectOption</string>
+    <string name="title_activity_select_option_from_grid">SelectOptionFromGrid</string>
+</resources>

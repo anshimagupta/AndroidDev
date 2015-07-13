@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Strings related to new registration-->
+    <string name="first_name">First Name</string>
+    <string name="email">Email Id</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="back_to_login">Back to Login</string>
+</resources>
